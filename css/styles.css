@@ -1,0 +1,16 @@
+* {
+    font-family: 'Calibri';
+  }
+  
+  table, tr, td {
+    border: 1px solid black;
+  }
+  
+  td {
+    width: 25px;
+    text-align: center;
+  }
+  
+  .bgGreen {
+    background-color: green;
+  }
